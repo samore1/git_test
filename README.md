@@ -1,0 +1,1 @@
+This is samore1's first git project.
